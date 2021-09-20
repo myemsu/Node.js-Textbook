@@ -1,5 +1,7 @@
 'use strict'
 
+// 객체 리터럴
+
 var sayNode = function () {
     console.log('Node');
 };

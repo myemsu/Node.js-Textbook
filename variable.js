@@ -1,5 +1,7 @@
 'use strict'
 
+// const, let
+
 if (true) {
     var x = 3;
 }

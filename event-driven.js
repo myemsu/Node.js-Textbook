@@ -1,5 +1,7 @@
 'use strict'
 
+// 이벤트 기반
+
 function first() {
     second();
     console.log('첫 번쨰');

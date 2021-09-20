@@ -1,5 +1,7 @@
 'use strict'
 
+// 템플릿 문자열
+
 var num1= 1;
 var num2 = 2;
 var result = 3;

@@ -1,5 +1,7 @@
 'use strict'
 
+// 논 블로킹 I/O
+
 /*
 //블로킹 방식
 function longRunningTask() {
